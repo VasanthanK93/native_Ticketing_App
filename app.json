@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Ticket_Booking_Native",
+    "slug": "Ticket_Booking_Native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Ticket_Booking_Native"
+}
